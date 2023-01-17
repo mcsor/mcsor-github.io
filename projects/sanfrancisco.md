@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/sanfran_logo.png
 title: "San Francisco"
 date: 2022
 published: true
