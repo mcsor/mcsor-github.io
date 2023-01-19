@@ -69,18 +69,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Blue Planet Foundation",
-      "website": "https://blueplanetfoundation.org/",
-      "position": "Cohort III Member",
-      "startDate": "2020-10",
-      "endDate": "2021-04",
-      "summary": "Member of student group working to prevent climate change",
-      "highlights": [
-        "Communicated with team members and outside organizations to organize events",
-        "Utilized social media to advertise events to a wide audience"
-      ]
-    },
-    {
       "organization": "ICSpark",
       "website": "https://icspark.github.io/",
       "position": "Student Mentor",
@@ -90,6 +78,18 @@
       "highlights": [
         "Worked with other team members to create easy to understand website development curriculum", 
         "Taught the fundamentals of Javascript, CSS and HTML to highschool students"
+      ]
+    },
+    {
+      "organization": "Blue Planet Foundation",
+      "website": "https://blueplanetfoundation.org/",
+      "position": "Cohort III Member",
+      "startDate": "2020-10",
+      "endDate": "2021-04",
+      "summary": "Member of student group working to prevent climate change",
+      "highlights": [
+        "Communicated with team members and outside organizations to organize events",
+        "Utilized social media to advertise events to a wide audience"
       ]
     }
   ],
