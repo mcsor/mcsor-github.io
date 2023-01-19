@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The Beginning"
+title: "Entering the World of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Javascript
+  - Athletic Software Engineering
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
