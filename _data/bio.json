@@ -9,15 +9,16 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "mcsor", "url": "http://github.com/mcsor" },
+      { "network": "linkedin", "username": "mcsor", "url": "https://www.linkedin.com/in/maya-chang-860895261/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Animation" },
     { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Animation" },
     { "name": "Foreign Language Learning" },
   ],
   "skills": [
@@ -43,69 +44,63 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "McDonald's",
+      "position": "Crew Member",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-07",
+      "endDate": "2021-08",
+      "summary": "McDonald's crew member",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Assisted other team members to achieve goals",
+        "Took orders, prepared meals and collected payments",
+        "Maintained fast speed of service, especially during rush times"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Outreach College",
+      "position": "Student Interchanger",
+      "website": "",
+      "startDate": "2022-03",
+      "endDate": "Present",
+      "summary": "Student English mentor for international students attending UH Manoa",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Communicated with international students to bridge language barriers",
+        "Engaged in cultural exchange with international students"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Blue Planet Foundation",
+      "website": "https://blueplanetfoundation.org/",
+      "position": "Cohort III Member",
+      "startDate": "2020-10",
+      "endDate": "2021-04",
+      "summary": "Member of student group working to prevent climate change",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Communicated with team members and outside organizations to organize events",
+        "Utilized social media to advertise events to a wide audience"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Student Mentor",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Student mentor",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Worked with other team members to create easy to understand website development curriculum", 
+        "Taught the fundamentals of Javascript, CSS and HTML to highschool students"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Provost Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshman students who are residents of Hawai'i with a minimum overall GPA of 3.8 (4.0 scale). Evidence of superior academic achievement or creative endeavor and record of academic, co-curricular, and community service activities."
     }
   ],
   "references": [
