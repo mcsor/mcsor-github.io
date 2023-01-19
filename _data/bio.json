@@ -4,10 +4,10 @@
     "label": "Student",
     "picture": "https://github.com/mcsor.png",
     "email": "mcc9@hawaii.edu",
-    "phone": "808-69-5008",
+    "phone": "808-369-5008",
     "website": "https://mcsor.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mcsor", "url": "http://github.com/mcsor" },
       { "network": "linkedin", "username": "mcsor", "url": "https://www.linkedin.com/in/maya-chang-860895261/" },
