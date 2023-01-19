@@ -11,8 +11,6 @@
     "profiles": [
       { "network": "github", "username": "mcsor", "url": "http://github.com/mcsor" },
       { "network": "linkedin", "username": "mcsor", "url": "https://www.linkedin.com/in/maya-chang-860895261/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
@@ -44,6 +42,18 @@
   ],
   "work": [
     {
+      "company": "UH Manoa Outreach College",
+      "position": "Student Interchanger",
+      "website": "",
+      "startDate": "2022-03",
+      "endDate": "Present",
+      "summary": "Student English mentor for international students attending UH Manoa",
+      "highlights": [
+        "Communicated with international students to bridge language barriers",
+        "Engaged in cultural exchange with international students"
+      ]
+    },
+    {
       "company": "McDonald's",
       "position": "Crew Member",
       "website": "",
@@ -54,18 +64,6 @@
         "Assisted other team members to achieve goals",
         "Took orders, prepared meals and collected payments",
         "Maintained fast speed of service, especially during rush times"
-      ]
-    },
-    {
-      "company": "UH Manoa Outreach College",
-      "position": "Student Interchanger",
-      "website": "",
-      "startDate": "2022-03",
-      "endDate": "Present",
-      "summary": "Student English mentor for international students attending UH Manoa",
-      "highlights": [
-        "Communicated with international students to bridge language barriers",
-        "Engaged in cultural exchange with international students"
       ]
     }
   ],
