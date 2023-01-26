@@ -29,15 +29,13 @@ Consider that one of the most popular content management systems is also conside
 
 Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
+## Example of a Not so Smart Question
+
+Scrolling through StackOverflow I came across this particular [post](https://stackoverflow.com/questions/269481/counting-database-applications).  The header “Counting Database Applications” only provides the topic of the inquiry and no information on the problem the inquirer is seeking help on.  The body of the post proves to be no more informative as it is just a single sentence: “How can we find out that how many applications are there in a database?”  Not only does the bad grammar severely undermine the content of the question, but the inquirer’s lack of context makes it confusing and hard for the reader to completely understand what the problem is.  This confusion is clearly shown in the responses as both answerers start off their answer with some form of “I’m not sure what you’re asking, but…” then proceed to give the best answer they can based on the limited information given to them.  As best put by Osama Al-Maadeed in the comment section, “[the] question makes no sense.”
+
 ## Example of a Smart Question
 
 Therefore, although I have no idea what a “docker” or “daemon” is, I was easily able to grasp the problem and understand (to an extent) what happened and what the inquirer was asking for help on.
 
 Here is a link to [the question](https://stackoverflow.com/questions/63330590/error-response-from-daemon-open-pipe-docker-engine-linux-the-system-cannot).
-
-## Example of a Not so Smart Question
-
-What first caught my eye was the title “c - Buffer overflow this and run multiplication instead of addition?”  It might’ve been due to my inability to read and understand what the inquirer was asking on my first go.
-
-Here is a link to [the question](https://stackoverflow.com/questions/75242503/buffer-overflow-this-and-run-multiplication-instead-of-addition).
 
