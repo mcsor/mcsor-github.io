@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The "Right" Way to Question"
+title: "The 'Right' Way to Question"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
@@ -30,6 +30,8 @@ Consider that one of the most popular content management systems is also conside
 Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
 ## Example of a Smart Question
+
+Therefore, although I have no idea what a “docker” or “daemon” is, I was easily able to grasp the problem and understand (to an extent) what happened and what the inquirer was asking for help on.
 
 Here is a link to [the question](https://stackoverflow.com/questions/63330590/error-response-from-daemon-open-pipe-docker-engine-linux-the-system-cannot).
 
