@@ -9,7 +9,7 @@ labels:
   - Smart Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/smart_questions.webp">
 
 In order to get a good answer one must first learn how to ask the right question.  This is especially true in the field of computer science in which the quality of the answer a person receives is directly dependent on the effectiveness of the question they ask.  
 
