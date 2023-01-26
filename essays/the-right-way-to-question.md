@@ -7,6 +7,7 @@ date: 2023-01-26
 published: true
 labels:
   - Smart Questions
+  - Stack Overflow
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/smart_questions.webp">
