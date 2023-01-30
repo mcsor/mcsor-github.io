@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICSpark.jpg
+image: img/ICSpark.png
 title: "Introducing Me"
 date: 2023
 published: true
