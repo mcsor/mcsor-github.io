@@ -19,3 +19,5 @@ summary: "I developed a simple project to help ICSpark students practice the bas
 </div>
 
 Introducing Me is a very simple project I made for the ICSpark curriculum that is meant to help students practice the HTML and CSS skills they will learn in the first week of the program.
+
+You can view my github repository using the following [link](https://github.com/mcsor/Introducing-Me).
