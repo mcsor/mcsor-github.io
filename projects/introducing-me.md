@@ -12,11 +12,7 @@ labels:
 summary: "I developed a simple project to help ICSpark students practice the basics of HTML and CSS."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+<img class="img-fluid" src="../img/ICSpark_website.png">
 
 Introducing Me is a very simple project I made for UH’s ICSpark curriculum that is meant to help students practice the HTML and CSS skills they will learn in the first week of the program.  Due to the fact my project is used at a time when the students are just getting used to the basics of coding in HTML and CSS, I attempted to make my project as simple as possible so the students could practice using simple HTML tags and CSS properties without too much trouble.  The goal of the project is to create a website introducing the author.  
 
