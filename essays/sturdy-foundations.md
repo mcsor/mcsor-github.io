@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Entering the World of Software Engineering"
+title: "Sturdy Foundations"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-09
 published: true
