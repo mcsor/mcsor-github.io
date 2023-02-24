@@ -19,8 +19,8 @@ Despite having played around with HTML, Javascript and CSS for a while now, Boot
 Once you are able to get past the initial learning curve, however, I believe UI Frameworks makes your life a lot easier when designing a website.  For example, in Bootstrap 5, by simply including the class “container” in your HTML tag, the framework automatically provides you with a general padding for the content of your website.  This saves you the trouble of having to go through the effort to manually add in the HTML and CSS code to perform this task yourself.  Besides container, Bootstrap 5 includes a large variety of other classes (ex. navbar, row, col) that, when called, provide an easier way to design websites and allows coders to cut down on the amount of code they need to write.
 
 <div class="text-center p-4">
-    <img width="400px" class="rounded float-start pe-4" src="../img/stylenanda-real.png">
-    <img width="400px" class="rounded float-start pe-4" src="../img/stylenanda-remake.png">
+    <img width="300px" class="rounded float-start pe-4" src="../img/stylenanda-real.png">
+    <img width="300px" class="rounded float-start pe-4" src="../img/stylenanda-remake.png">
 </div>
 
 ## An Example
