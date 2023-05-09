@@ -32,5 +32,9 @@ Depending on the role the user chooses, a different profile is available.
 <hr>
 
 ### [Site Home Page](https://manoa-recipes.github.io/)
+
+<hr>
+
 ### [Deployed Website](https://manoa-recipes.site/)
 
+<hr>
