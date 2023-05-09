@@ -4,7 +4,7 @@ type: project
 image: img/sanfran/sanfran_logo.png
 title: "San Francisco"
 date: 2022
-published: false
+published: true
 labels:
   - Maya
 summary: "I created and animated an environment scene in Maya."
