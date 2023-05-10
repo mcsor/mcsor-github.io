@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Maya Chang",
+    "label": "Student",
+    "picture": "https://github.com/mcsor.png",
+    "email": "mcc9@hawaii.edu",
+    "phone": "808-369-5008",
+    "website": "https://mcsor.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "mcsor", "url": "http://github.com/mcsor" },
+      { "network": "linkedin", "username": "mcsor", "url": "https://www.linkedin.com/in/maya-chang-860895261/" },
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Animation" },
+    { "name": "Foreign Language Learning" },
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "vi", "Git/GitHub", "VSCode" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-23",
+      "endDate": "TBD",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa Outreach College",
+      "position": "Student Interchanger",
+      "website": "",
+      "startDate": "2022-03",
+      "endDate": "Present",
+      "summary": "Student English mentor for international students attending UH Manoa",
+      "highlights": [
+        "Communicated with international students to bridge language barriers",
+        "Engaged in cultural exchange with international students"
+      ]
+    },
+    {
+      "company": "McDonald's",
+      "position": "Crew Member",
+      "website": "",
+      "startDate": "2020-07",
+      "endDate": "2021-08",
+      "summary": "McDonald's crew member",
+      "highlights": [
+        "Assisted other team members to achieve goals",
+        "Took orders, prepared meals and collected payments",
+        "Maintained fast speed of service, especially during rush times"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Student Mentor",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Student mentor",
+      "highlights": [
+        "Worked with other team members to create easy to understand website development curriculum", 
+        "Taught the fundamentals of Javascript, CSS and HTML to highschool students"
+      ]
+    },
+    {
+      "organization": "Blue Planet Foundation",
+      "website": "https://blueplanetfoundation.org/",
+      "position": "Cohort III Member",
+      "startDate": "2020-10",
+      "endDate": "2021-04",
+      "summary": "Member of student group working to prevent climate change",
+      "highlights": [
+        "Communicated with team members and outside organizations to organize events",
+        "Utilized social media to advertise events to a wide audience"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Provost Scholarship",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshman students who are residents of Hawai'i with a minimum overall GPA of 3.8 (4.0 scale). Evidence of superior academic achievement or creative endeavor and record of academic, co-curricular, and community service activities."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
