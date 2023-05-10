@@ -37,7 +37,7 @@ Although my main focus was getting the functionality of the landing page and ven
 *You can find links to the project home page as well as the deployed website below.*
 
 # Takeaways
-As a student, I have worked on many group projects before.  However, this was the first time I've worked on a group coding project.  Because I'm used to working on coding projects myself, it took me a little while to get used to coding as a group.  Using github issues to dictate which group member would implement which functionality made the process of working on this project much easier.
+This project was the first time I have ever worked on a group coding project.  Because I'm used to working on coding projects myself, it took me a little while to get used to coding as a group.  However, it also provided me with the opportunity to learn more about group management and how to work efficiently through virtual means.  For example, learning how to use github issues made it easier for my group members and I to communicate as it allowed us to easily dictate and see which group member would implement which functionality. Working on Manoa Recipes also taught me a lot about saving and pulling information from databases as well as how to design applications in a way that makes them easy for consumers to utilize.
 
 <hr>
 
