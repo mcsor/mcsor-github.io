@@ -4,7 +4,7 @@ type: essay
 title: "Chapter, Closed; What's Next?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-10
-published: true
+published: false
 labels:
   - Software Engineering
   - Reflection
