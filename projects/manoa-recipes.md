@@ -11,23 +11,31 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: "A website that I developed for ICS 311."
+summary: "A web application that aids college students in finding and sharing easy-to-make recipes."
 ---
+
+# Overview
 
 <img class="img-fluid" src="../img/manoa-recipes/manoa-recipes-landing-page.png">
 
-Manoa Recipes is an application that aims to provide college students access to finding and sharing low budget, easy-to-make recipes.
+Manoa Recipes is an application I made as part of a group project for my ICS 314 class that aims to provide college students easy access to low budget, simple recipes they can make at home.
 
 <img class="img-fluid" src="../img/manoa-recipes/manoa-recipes-list.png">
 
-<img class="img-fluid" src="../img/manoa-recipes/manoa-recipes-vendor.png">
+Users are able to look through recipes uploaded to the site as well as add their own.  By using the search page, users can look for recipes based off of specific ingredients.  Additionally, the "List Recipe" page has a filter feature that allows the user to filter out vegan and gluten-free recipes.
 
 <div class="text-center p-4">
     <img width="500px" class="img-fluid" src="../img/manoa-recipes/manoa-recipes-user-profile.png">
     <img width="500px" class="img-fluid" src="../img/manoa-recipes/manoa-recipes-vendor-profile.png">
 </div>
 
-Depending on the role the user chooses, a different profile is available.
+Depending on the role the user chooses, a different profile is available.  If they are a regular user, their profile displays their allergies, and whether they are vegan and/or gluten-free.  If they are a vendor, their profile displays their name, location, and hours as well as the ingredients they sell.
+
+*You can find links to the project home page as well as the deployed website below.*
+
+# Responsibilities
+
+# Takeaways
 
 <hr>
 
