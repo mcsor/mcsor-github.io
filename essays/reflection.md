@@ -23,5 +23,4 @@ User Interface Frameworks, although only one of the many topics I learned in ICS
 
 Another topic I learned that I consider to be extremely valuable is Agile Project Management or, more specifically, Issue Driven Project Management that my team utilized in developing our final project – Manoa Recipes.  Issue Driven Project Management is a style of project management that utilizes the setting of milestones and issues as well as meetings to advance progress.  Through setting milestones and issues, a team is able to break up a project into sections making it easier to manage.  Additionally, it makes it easier to designate tasks and gives each team member a set goal for them to reach by a certain deadline.  This ensures that steady progress is being made on the project and minimizes procrastination.
 
-## Onwards
-Hello
+Both of these topics not only have use in ICS 314, but beyond as well.  Issue Driven Project Management in particular is a method that can be used in a broad range of industries such as business and video game development.  It provides a solid framework for efficient team communication and project building that I can see myself using in future classes, as well as any of my future jobs.
